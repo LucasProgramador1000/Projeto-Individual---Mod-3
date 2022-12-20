@@ -1,0 +1,125 @@
+{
+    "remediosParaDor": [
+      {
+        "id": 1,
+        "Marca": "Paracetamol",
+        "Quantidade": 10,
+        "Miligrama": 500,
+        "Preco": 6.98
+      },
+      {
+        "id": 2,
+        "Marca": "Advil",
+        "Quantidade": 15,
+        "Miligrama": 700,
+        "Preco": 14.98
+      },
+      {
+        "id": 3,
+        "Marca": "Doril",
+        "Quantidade": 30,
+        "Miligrama": 500,
+        "Preco": 17.95
+      },
+      {
+        "id": 4,
+        "Marca": "Dorflex",
+        "Quantidade": 10,
+        "Miligrama": 600,
+        "Preco": 17.00
+      }
+    ],
+    
+    "remedioParaGarganta": [
+      {
+        "id": 1,
+        "Marca": "Needs",
+        "Quantidade": 30,
+        "Mililitro": 30,
+        "Preco": 12.98
+      },
+      {
+        "id": 2,
+        "Marca": "Cimed",
+        "Quantidade": 40,
+        "Mililitro": 40,
+        "Preco": 9.98 
+      },
+      {
+        "id": 3,
+        "Marca": "Flogoral",
+        "Quantidade": 50,
+        "Mililitro": 50,
+        "Preco": 13.95   
+      },
+      {
+        "id": 4,
+        "Marca": "Valda",
+        "Quantidade": 50,
+        "Mililitro": 50,
+        "Preco": 15.98 
+      }
+    ],
+      
+    "Vitaminas": [
+      {
+        "id": 1,
+        "Marca": "Vitamina C Redoxon",
+        "Quantidade": 30,
+        "Miligrama": 500,
+        "Preco": 16.99
+      },
+      {
+        "id": 2,
+        "Marca": "Vitamina C Cewin",
+        "Quantidade": 30,
+        "Miligrama": 500,
+        "Preco": 29.99
+      },
+      {
+        "id": 3,
+        "Marca": "Suplemento Vitaminico Lavitan",
+        "Quantidade": 60,
+        "Miligrama": 0,
+        "Preco": 16.99
+      },
+      {
+        "id": 4,
+        "Marca": "Kit Ômega 3 Catarinense",
+        "Quantidade": 300,
+        "Miligrama": 1000,
+        "Preco": 104.99
+      }
+    ],
+    
+    "BelezaEHigiene": [
+      {
+        "id": 1,
+        "Marca": "Esfoliante Corporal Nivea para banho",
+        "Quantidade": 1,
+        "Mililitro": 200,
+        "Preco": 21.99
+      },
+      {
+        "id": 2,
+        "Marca": "Protetor Solar Episol Intense FPS 50",
+        "Quantidade": 1,
+        "Mililitro": 200,
+        "Preco": 55.98
+      },
+      {
+        "id": 3,
+        "Marca": "Desodorante Aerosol Rexona",
+        "Quantidade": 1,
+        "Mililitro": 250,
+        "Preco": 12.99
+      },
+      {
+        "id": 4,
+        "Marca": "Loção Hidradante Nivea Soft Milk",
+        "Quantidade": 1,
+        "Mililitro": 400,
+        "Preco": 16.90
+      }
+    ]
+  }

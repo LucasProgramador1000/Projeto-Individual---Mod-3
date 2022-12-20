@@ -1,0 +1,15 @@
+{
+    "name": "teste-karlla",
+    "version": "1.0.0",
+    "description": "Trabalho individual",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Lucas Sales",
+    "license": "ISC",
+    "dependencies": {
+      "json-server": "^0.17.0"
+    }
+  }
